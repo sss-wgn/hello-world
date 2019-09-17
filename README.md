@@ -51,7 +51,8 @@ Let’s start with this template:
 ```
 <p>Hello World! I’m [username]. This is my website!</p>
 ```
-
+This is my first time to use github.
+Hope i could have a good time here.
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
 
 <img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
@@ -59,9 +60,7 @@ To add your introduction, copy our template and click the edit pencil icon at th
 
 Delete this placeholder line:
 
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
+
 
 Then, paste the template to line 15 and fill in the blanks.
 
